@@ -1,0 +1,11 @@
+# for notebook, observable programming
+jupyter
+
+# for those spreadsheet equivs
+pandas
+
+# data visualization
+matplotlib
+
+# creating Excel files after analysis
+openpyxl
